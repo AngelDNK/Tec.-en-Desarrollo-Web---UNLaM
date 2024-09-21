@@ -1,21 +1,38 @@
-2024-1c Clase 1-Practica
-En Clase Juego de adivinanza + Unit tests
-Crear un nuevo juego que contemple que el usuario pueda ingresar un numero maximo, y luego debe adivinar cual es el numero elegido por la computadora, donde en cada intento de adivinar, la computadora le dice, "helado", "frio", "tibio", "caliente", "ardiente". Ejemplo:
 
-Ingrese nro maximo:
-100
-Ya elegi un nro, Adivine:
-50
-Tibio
-60
-Frio
-40
-Caliente
-42
-Ardiente
-43
-Muy bien ha adivinado! el nro que habia elegido era 43! lo ha adivinado en 5 intentos!
-Tarea - Crear Juego Ta-Te-Ti + Unit Testing
-Intrucciones
-Hacer un fork de este repositorio
-Crear Pull Request contra el repositorio original
+# 2024-2c Clase 1-Practica
+
+# Tarea - Crear Juego de Bola 8 Magica + Unit tests
+
+Crear un nuevo juego que consiste en que el usuario le haga una pregunta a la Bola 8 Mágica (como haría con una bola mágica tradicional). Al ingresar su pregunta, la computadora responde de manera aleatoria con una de las típicas respuestas de una bola 8 mágica.
+
+
+
+
+
+
+
+
+- Es cierto.
+- Es decididamente así.
+- Sin duda.
+- Sí, definitivamente.
+- Puedes confiar en ello.
+- Como yo lo veo, sí.
+- Lo más probable.
+- Buen pronóstico.
+- Sí.
+- Las señales apuntan a que sí.
+- Respuesta confusa, intenta de nuevo.
+- Pregunta de nuevo más tarde.
+- Mejor no decirte ahora.
+- No se puede predecir ahora.
+- Concéntrate y pregunta de nuevo.
+- No cuentes con ello.
+- Mi respuesta es no.
+- Mis fuentes dicen que no.
+- Las perspectivas no son buenas.
+- Muy dudoso.
+
+
+
+
