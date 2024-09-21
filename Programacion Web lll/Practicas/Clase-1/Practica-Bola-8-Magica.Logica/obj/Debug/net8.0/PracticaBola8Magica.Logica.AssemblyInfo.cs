@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PracticaBola8Magica.Consola")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PracticaBola8Magica.Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81eeb605ab9f2d501f261a65f018dc71cc7e78ce")]
-[assembly: System.Reflection.AssemblyProductAttribute("PracticaBola8Magica.Consola")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PracticaBola8Magica.Consola")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36822987bd1e874fa95d08940d86b3a06e92d02d")]
+[assembly: System.Reflection.AssemblyProductAttribute("PracticaBola8Magica.Logica")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PracticaBola8Magica.Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
