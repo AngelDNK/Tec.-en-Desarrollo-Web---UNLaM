@@ -3,10 +3,10 @@ Esta carpeta contiene todos los trabajos prácticos (TPs) y exámenes correspond
 ## Estructura de la Carpeta
 La carpeta principal de la materia incluye subcarpetas con los siguientes contenidos:
 
--Practicas: Contiene los trabajos prácticos desarrollados durante la cursada.
+- Practicas: Contiene los trabajos prácticos desarrollados durante la cursada.
 
--Cada TP está en una carpeta propia, nombrada siguiendo el formato TP-[Número]-[Descripción].
+- Cada TP está en una carpeta propia, nombrada siguiendo el formato TP-[Número]-[Descripción].
 
--Exámenes: Incluye los exámenes realizados.
+- Exámenes: Incluye los exámenes realizados.
 
--Los exámenes están organizados en subcarpetas como Primer Parcial, Segundo Parcial y Tema.
+- Los exámenes están organizados en subcarpetas como Primer Parcial, Segundo Parcial y Tema.
