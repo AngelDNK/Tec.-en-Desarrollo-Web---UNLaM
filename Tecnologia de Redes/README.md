@@ -11,4 +11,8 @@ La carpeta principal de la materia incluye subcarpetas con los siguientes conten
 
 - Los exámenes están organizados en subcarpetas como Primer Parcial, Segundo Parcial y Tema.
 
-[Una prueba](https://forms.gle/XqGCy5gRXSCxhpk2A)
+## Enlances de Repaso  
+
+- [Simulacion de 1er Parcial](https://forms.gle/XqGCy5gRXSCxhpk2A)
+
+- [Simulacion de 2do Parcial](https://forms.gle/XqGCy5gRXSCxhpk2A)
